@@ -154,4 +154,4 @@ if __name__ == '__main__':
     draw(root, canvas, heart)  
     root.mainloop()
 
-    
+   
