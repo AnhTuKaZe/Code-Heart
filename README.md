@@ -11,5 +11,10 @@
 ~ CODE PYTHON các bạn phải sử dụng Phần mềm đọc hoặc viết mã code (Visual Studio, XCode, Notepad++, Python, Eclipse...)
 
 #Preview
+#Xem trước code bằng việc click vào link bên dưới !
 --------
 Heart-Beating-Animation : https://codepen.io/LazyKaze/pen/oNyZwJM
+--------
+Heart-Bule-Move : https://codepen.io/LazyKaze/pen/XWYMeZr
+--------
+
