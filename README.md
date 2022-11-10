@@ -9,3 +9,7 @@
 ~ CODE HTML-CSS-JSON bạn cần truy cập: https://codepen.io/ - sao chép code có sẵn (ctrl+c) - dán vào ba ô tương ứng (ctrl+v) - đợi 5s load code
 
 ~ CODE PYTHON các bạn phải sử dụng Phần mềm đọc hoặc viết mã code (Visual Studio, XCode, Notepad++, Python, Eclipse...)
+
+#Preview
+--------
+Heart-Beating-Animation : https://codepen.io/LazyKaze/pen/oNyZwJM
