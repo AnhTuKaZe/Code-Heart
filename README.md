@@ -17,4 +17,11 @@ Heart-Beating-Animation : https://codepen.io/LazyKaze/pen/QWxpqxJ
 --------
 Heart-Bule-Move : https://codepen.io/LazyKaze/pen/XWYMeZr
 --------
-
+Heart-Classic - heart-classic-v0.html : https://codepen.io/LazyKaze/pen/GRGmBVz
+-
+Heart-Classic - heart-classic-v1.html : https://codepen.io/LazyKaze/pen/LYryJPd
+-
+Heart-Classic - heart-classic-v2.html : https://codepen.io/LazyKaze/pen/KKemxKV
+-
+Heart-Classic - heart-classic.html    : https://codepen.io/LazyKaze/pen/VwdbGwB
+--------
