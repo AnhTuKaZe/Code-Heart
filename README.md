@@ -27,7 +27,7 @@ Heart-Classic - heart-classic    : https://codepen.io/LazyKaze/pen/VwdbGwB
 --------
 Heart-Name - heart-Name          : https://codepen.io/LazyKaze/pen/jOKmvPW
 --------
-Heart-Quaternius                 : https://codepen.io/LazyKaze/pen/KKemxNg
+Heart-Quaternius                 : https://codepen.io/LazyKaze/pen/oNyZwJM
 --------
 Heart-colours                    : https://codepen.io/LazyKaze/pen/JjZNaNZ
 --------
