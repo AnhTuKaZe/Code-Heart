@@ -13,7 +13,7 @@
 #Preview
 #Xem trước code bằng việc click vào link bên dưới !
 --------
-Heart-Beating-Animation : https://codepen.io/LazyKaze/pen/oNyZwJM
+Heart-Beating-Animation : https://codepen.io/LazyKaze/pen/QWxpqxJ
 --------
 Heart-Bule-Move : https://codepen.io/LazyKaze/pen/XWYMeZr
 --------
