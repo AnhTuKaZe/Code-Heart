@@ -13,9 +13,9 @@
 #Preview
 #Xem trước code bằng việc click vào link bên dưới !
 --------
-Heart-Beating-Animation : https://codepen.io/LazyKaze/pen/QWxpqxJ
+Heart-Beating-Animation          : https://codepen.io/LazyKaze/pen/QWxpqxJ
 --------
-Heart-Bule-Move : https://codepen.io/LazyKaze/pen/XWYMeZr
+Heart-Bule-Move                  : https://codepen.io/LazyKaze/pen/XWYMeZr
 --------
 Heart-Classic - heart-classic-v0 : https://codepen.io/LazyKaze/pen/GRGmBVz
 -
@@ -27,3 +27,8 @@ Heart-Classic - heart-classic    : https://codepen.io/LazyKaze/pen/VwdbGwB
 --------
 Heart-Name - heart-Name          : https://codepen.io/LazyKaze/pen/jOKmvPW
 --------
+Heart-Quaternius                 : https://codepen.io/LazyKaze/pen/KKemxNg
+--------
+Heart-colours                    : https://codepen.io/LazyKaze/pen/JjZNaNZ
+--------
+
