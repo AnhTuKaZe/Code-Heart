@@ -12,6 +12,8 @@
 
 #Preview
 #Xem trước code bằng việc click vào link bên dưới !
+
+index                            : https://codepen.io/LazyKaze/pen/ZERKMdx
 --------
 Heart-Beating-Animation          : https://codepen.io/LazyKaze/pen/QWxpqxJ
 --------
